@@ -1,4 +1,4 @@
-! [MapOS] (https://raw.githubusercontent.com/RamonSilva20/mapos/master/assets/img/logo.png)
+https://raw.githubusercontent.com/RamonSilva20/mapos/master/assets/img/logo.png
 
 #### CUSTOM_Version 2.6.4_
 
